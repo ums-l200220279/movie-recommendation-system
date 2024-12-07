@@ -28,7 +28,7 @@ The project uses the **MovieLens 20M** dataset, which contains movie ratings dat
 - `genome_tags.csv` - Contains tags used in genome scores.
 - `link.csv` - Contains movie links to external sources.
 
-Dataset can be found [here](https://grouplens.org/datasets/movielens/).
+Dataset can be found [here](https://www.kaggle.com/datasets/grouplens/movielens-20m-dataset/data).
 
 ## Installation
 
